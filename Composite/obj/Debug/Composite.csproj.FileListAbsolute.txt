@@ -1,0 +1,7 @@
+D:\asp.net\Patterns\SingletonDesignPattern\Composite\bin\Debug\Composite.exe.config
+D:\asp.net\Patterns\SingletonDesignPattern\Composite\bin\Debug\Composite.exe
+D:\asp.net\Patterns\SingletonDesignPattern\Composite\bin\Debug\Composite.pdb
+D:\asp.net\Patterns\SingletonDesignPattern\Composite\obj\Debug\Composite.csprojAssemblyReference.cache
+D:\asp.net\Patterns\SingletonDesignPattern\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+D:\asp.net\Patterns\SingletonDesignPattern\Composite\obj\Debug\Composite.exe
+D:\asp.net\Patterns\SingletonDesignPattern\Composite\obj\Debug\Composite.pdb

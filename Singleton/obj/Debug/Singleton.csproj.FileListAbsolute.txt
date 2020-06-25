@@ -1,0 +1,7 @@
+D:\asp.net\Patterns\SingletonDesignPattern\Singleton\bin\Debug\Singleton.exe.config
+D:\asp.net\Patterns\SingletonDesignPattern\Singleton\bin\Debug\Singleton.exe
+D:\asp.net\Patterns\SingletonDesignPattern\Singleton\bin\Debug\Singleton.pdb
+D:\asp.net\Patterns\SingletonDesignPattern\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+D:\asp.net\Patterns\SingletonDesignPattern\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\asp.net\Patterns\SingletonDesignPattern\Singleton\obj\Debug\Singleton.exe
+D:\asp.net\Patterns\SingletonDesignPattern\Singleton\obj\Debug\Singleton.pdb

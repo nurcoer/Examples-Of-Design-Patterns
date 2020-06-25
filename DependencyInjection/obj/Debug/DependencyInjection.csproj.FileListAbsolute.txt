@@ -1,0 +1,10 @@
+D:\asp.net\Patterns\SingletonDesignPattern\DependencyInjection\obj\Debug\DependencyInjection.csproj.CoreCompileInputs.cache
+D:\asp.net\Patterns\SingletonDesignPattern\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+D:\asp.net\Patterns\SingletonDesignPattern\DependencyInjection\bin\Debug\DependencyInjection.exe
+D:\asp.net\Patterns\SingletonDesignPattern\DependencyInjection\bin\Debug\DependencyInjection.pdb
+D:\asp.net\Patterns\SingletonDesignPattern\DependencyInjection\obj\Debug\DependencyInjection.exe
+D:\asp.net\Patterns\SingletonDesignPattern\DependencyInjection\obj\Debug\DependencyInjection.pdb
+D:\asp.net\Patterns\SingletonDesignPattern\DependencyInjection\obj\Debug\DependencyInjection.csprojAssemblyReference.cache
+D:\asp.net\Patterns\SingletonDesignPattern\DependencyInjection\bin\Debug\Ninject.dll
+D:\asp.net\Patterns\SingletonDesignPattern\DependencyInjection\bin\Debug\Ninject.xml
+D:\asp.net\Patterns\SingletonDesignPattern\DependencyInjection\obj\Debug\DependencyInjection.csproj.CopyComplete

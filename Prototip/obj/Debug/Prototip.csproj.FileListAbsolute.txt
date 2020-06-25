@@ -1,0 +1,6 @@
+D:\asp.net\Patterns\SingletonDesignPattern\Prototip\bin\Debug\Prototip.exe.config
+D:\asp.net\Patterns\SingletonDesignPattern\Prototip\bin\Debug\Prototip.exe
+D:\asp.net\Patterns\SingletonDesignPattern\Prototip\bin\Debug\Prototip.pdb
+D:\asp.net\Patterns\SingletonDesignPattern\Prototip\obj\Debug\Prototip.csproj.CoreCompileInputs.cache
+D:\asp.net\Patterns\SingletonDesignPattern\Prototip\obj\Debug\Prototip.exe
+D:\asp.net\Patterns\SingletonDesignPattern\Prototip\obj\Debug\Prototip.pdb

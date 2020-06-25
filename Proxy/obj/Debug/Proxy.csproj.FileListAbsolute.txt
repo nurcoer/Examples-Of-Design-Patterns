@@ -1,0 +1,7 @@
+D:\asp.net\Patterns\SingletonDesignPattern\Proxy\bin\Debug\Proxy.exe.config
+D:\asp.net\Patterns\SingletonDesignPattern\Proxy\bin\Debug\Proxy.exe
+D:\asp.net\Patterns\SingletonDesignPattern\Proxy\bin\Debug\Proxy.pdb
+D:\asp.net\Patterns\SingletonDesignPattern\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+D:\asp.net\Patterns\SingletonDesignPattern\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+D:\asp.net\Patterns\SingletonDesignPattern\Proxy\obj\Debug\Proxy.exe
+D:\asp.net\Patterns\SingletonDesignPattern\Proxy\obj\Debug\Proxy.pdb

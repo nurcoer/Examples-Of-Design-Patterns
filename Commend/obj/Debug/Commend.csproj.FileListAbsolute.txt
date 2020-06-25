@@ -1,0 +1,7 @@
+D:\asp.net\Patterns\SingletonDesignPattern\Commend\obj\Debug\Commend.csprojAssemblyReference.cache
+D:\asp.net\Patterns\SingletonDesignPattern\Commend\obj\Debug\Commend.csproj.CoreCompileInputs.cache
+D:\asp.net\Patterns\SingletonDesignPattern\Commend\bin\Debug\Commend.exe.config
+D:\asp.net\Patterns\SingletonDesignPattern\Commend\bin\Debug\Commend.exe
+D:\asp.net\Patterns\SingletonDesignPattern\Commend\bin\Debug\Commend.pdb
+D:\asp.net\Patterns\SingletonDesignPattern\Commend\obj\Debug\Commend.exe
+D:\asp.net\Patterns\SingletonDesignPattern\Commend\obj\Debug\Commend.pdb

@@ -1,0 +1,7 @@
+D:\asp.net\Patterns\SingletonDesignPattern\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+D:\asp.net\Patterns\SingletonDesignPattern\TemplateMethod\bin\Debug\TemplateMethod.exe
+D:\asp.net\Patterns\SingletonDesignPattern\TemplateMethod\bin\Debug\TemplateMethod.pdb
+D:\asp.net\Patterns\SingletonDesignPattern\TemplateMethod\obj\Debug\TemplateMethod.csprojAssemblyReference.cache
+D:\asp.net\Patterns\SingletonDesignPattern\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+D:\asp.net\Patterns\SingletonDesignPattern\TemplateMethod\obj\Debug\TemplateMethod.exe
+D:\asp.net\Patterns\SingletonDesignPattern\TemplateMethod\obj\Debug\TemplateMethod.pdb

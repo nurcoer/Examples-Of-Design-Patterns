@@ -1,0 +1,6 @@
+D:\asp.net\Patterns\SingletonDesignPattern\State\bin\Debug\State.exe.config
+D:\asp.net\Patterns\SingletonDesignPattern\State\bin\Debug\State.exe
+D:\asp.net\Patterns\SingletonDesignPattern\State\bin\Debug\State.pdb
+D:\asp.net\Patterns\SingletonDesignPattern\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+D:\asp.net\Patterns\SingletonDesignPattern\State\obj\Debug\State.exe
+D:\asp.net\Patterns\SingletonDesignPattern\State\obj\Debug\State.pdb

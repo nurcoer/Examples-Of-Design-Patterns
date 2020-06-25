@@ -1,0 +1,7 @@
+D:\asp.net\Patterns\SingletonDesignPattern\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+D:\asp.net\Patterns\SingletonDesignPattern\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+D:\asp.net\Patterns\SingletonDesignPattern\Adapter\bin\Debug\Adapter.exe.config
+D:\asp.net\Patterns\SingletonDesignPattern\Adapter\bin\Debug\Adapter.exe
+D:\asp.net\Patterns\SingletonDesignPattern\Adapter\bin\Debug\Adapter.pdb
+D:\asp.net\Patterns\SingletonDesignPattern\Adapter\obj\Debug\Adapter.exe
+D:\asp.net\Patterns\SingletonDesignPattern\Adapter\obj\Debug\Adapter.pdb

@@ -1,0 +1,6 @@
+D:\asp.net\Patterns\SingletonDesignPattern\Multiton\bin\Debug\Multiton.exe.config
+D:\asp.net\Patterns\SingletonDesignPattern\Multiton\bin\Debug\Multiton.exe
+D:\asp.net\Patterns\SingletonDesignPattern\Multiton\bin\Debug\Multiton.pdb
+D:\asp.net\Patterns\SingletonDesignPattern\Multiton\obj\Debug\Multiton.csproj.CoreCompileInputs.cache
+D:\asp.net\Patterns\SingletonDesignPattern\Multiton\obj\Debug\Multiton.exe
+D:\asp.net\Patterns\SingletonDesignPattern\Multiton\obj\Debug\Multiton.pdb

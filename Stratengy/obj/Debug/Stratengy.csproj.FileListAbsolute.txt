@@ -1,0 +1,6 @@
+D:\asp.net\Patterns\SingletonDesignPattern\Stratengy\bin\Debug\Stratengy.exe.config
+D:\asp.net\Patterns\SingletonDesignPattern\Stratengy\bin\Debug\Stratengy.exe
+D:\asp.net\Patterns\SingletonDesignPattern\Stratengy\bin\Debug\Stratengy.pdb
+D:\asp.net\Patterns\SingletonDesignPattern\Stratengy\obj\Debug\Stratengy.csproj.CoreCompileInputs.cache
+D:\asp.net\Patterns\SingletonDesignPattern\Stratengy\obj\Debug\Stratengy.exe
+D:\asp.net\Patterns\SingletonDesignPattern\Stratengy\obj\Debug\Stratengy.pdb

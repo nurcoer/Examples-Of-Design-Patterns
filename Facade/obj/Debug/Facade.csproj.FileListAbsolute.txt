@@ -1,0 +1,7 @@
+D:\asp.net\Patterns\SingletonDesignPattern\Facade\bin\Debug\Facade.exe.config
+D:\asp.net\Patterns\SingletonDesignPattern\Facade\bin\Debug\Facade.exe
+D:\asp.net\Patterns\SingletonDesignPattern\Facade\bin\Debug\Facade.pdb
+D:\asp.net\Patterns\SingletonDesignPattern\Facade\obj\Debug\Facade.csprojAssemblyReference.cache
+D:\asp.net\Patterns\SingletonDesignPattern\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+D:\asp.net\Patterns\SingletonDesignPattern\Facade\obj\Debug\Facade.exe
+D:\asp.net\Patterns\SingletonDesignPattern\Facade\obj\Debug\Facade.pdb

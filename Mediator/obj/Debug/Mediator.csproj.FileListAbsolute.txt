@@ -1,0 +1,7 @@
+D:\asp.net\Patterns\SingletonDesignPattern\Mediator\bin\Debug\Mediator.exe.config
+D:\asp.net\Patterns\SingletonDesignPattern\Mediator\bin\Debug\Mediator.exe
+D:\asp.net\Patterns\SingletonDesignPattern\Mediator\bin\Debug\Mediator.pdb
+D:\asp.net\Patterns\SingletonDesignPattern\Mediator\obj\Debug\Mediator.csprojAssemblyReference.cache
+D:\asp.net\Patterns\SingletonDesignPattern\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+D:\asp.net\Patterns\SingletonDesignPattern\Mediator\obj\Debug\Mediator.exe
+D:\asp.net\Patterns\SingletonDesignPattern\Mediator\obj\Debug\Mediator.pdb

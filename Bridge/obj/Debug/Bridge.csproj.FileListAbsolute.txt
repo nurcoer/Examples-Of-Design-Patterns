@@ -1,0 +1,7 @@
+D:\asp.net\Patterns\SingletonDesignPattern\Bridge\bin\Debug\Bridge.exe.config
+D:\asp.net\Patterns\SingletonDesignPattern\Bridge\bin\Debug\Bridge.exe
+D:\asp.net\Patterns\SingletonDesignPattern\Bridge\bin\Debug\Bridge.pdb
+D:\asp.net\Patterns\SingletonDesignPattern\Bridge\obj\Debug\Bridge.csprojAssemblyReference.cache
+D:\asp.net\Patterns\SingletonDesignPattern\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+D:\asp.net\Patterns\SingletonDesignPattern\Bridge\obj\Debug\Bridge.exe
+D:\asp.net\Patterns\SingletonDesignPattern\Bridge\obj\Debug\Bridge.pdb

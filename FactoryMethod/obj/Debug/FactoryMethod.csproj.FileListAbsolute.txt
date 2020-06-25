@@ -1,0 +1,6 @@
+D:\asp.net\Patterns\SingletonDesignPattern\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\asp.net\Patterns\SingletonDesignPattern\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\asp.net\Patterns\SingletonDesignPattern\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\asp.net\Patterns\SingletonDesignPattern\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\asp.net\Patterns\SingletonDesignPattern\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\asp.net\Patterns\SingletonDesignPattern\FactoryMethod\obj\Debug\FactoryMethod.pdb
